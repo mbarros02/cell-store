@@ -1,6 +1,6 @@
 <h1>Cell Store</h1>
 
-<h2>Um app para venda de celulares</h2>
+<h2>App - Venda de Celulares</h2>
 
 <p>Este projeto tem como objetivo aprimorar o meu conhecimento e as minhas habilidades com projeto Java Web</p><br>
 
